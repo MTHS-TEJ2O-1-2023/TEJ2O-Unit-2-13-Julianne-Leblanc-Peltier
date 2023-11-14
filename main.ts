@@ -28,7 +28,7 @@ input.onButtonPressed(Button.A, function () {
 
   // loopcounter
   loopcounter = 4
-  // while statement which makes the number on the MicroBit be the same as the number of lit up neopixels, continues as long as the loopcounter is greather than or equal to zero. 
+  // while statement which makes the number on the MicroBit be the same as the number of lit up neopixels, continues as long as the loopcounter is greather than or equal to zero.
   while (loopcounter >= 0) {
     basic.pause(500)
 
